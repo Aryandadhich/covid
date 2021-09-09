@@ -1,1 +1,1 @@
-# covid
+# covidweapp
